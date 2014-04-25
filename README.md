@@ -2,7 +2,7 @@
 
 Tested on MacOS & Debian.
 
-Compiling `src/blah/core.clj` gets this exception:
+Compiling [`src/blah/core.clj`](https://github.com/tjg/core-async-bugreport/blob/master/src/core_async_bugreport/core.clj) gets this exception:
 
 ```text
 java.io.FileNotFoundException: Could not locate clojure/tools/analyzer__init.class or clojure/tools/analyzer.clj on classpath: 
